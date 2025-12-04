@@ -33,4 +33,5 @@ module floating_point_adder (
                 frac_small = frac1;
             end
 
+
 endmodule
